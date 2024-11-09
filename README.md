@@ -12,6 +12,20 @@ I'm George, a Robotics and Mechatronics Engineering student working as a simulat
   - Graphite: A Graphics rendering framework aimed at proving an abstracted API for a flexible and portable 3D or 2D graphics related application.
 
 <!---
-georgegil3902/georgegil3902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+My YouTube Channel 📺
+I'm also the creator behind MakersVerse, a channel where I share programming tutorials, project builds, and electronics projects. Though uploads have been occasional, I’m looking to build more consistent content in the future.
+
+Connect with Me 🌐
+LinkedIn: Your LinkedIn Profile
+GitHub: Here, of course! Check out my pinned repositories below 👇
+Email: george.public.email@domain.com
+Highlighted Projects 📂
+Devin - Trading Bot — The core engine for Devin, focused on trading automation and analysis.
+Graphite - Rendering Framework — A framework to simplify the creation of 3D applications.
+Tesseract - 3D Viewport — A tool for visualizing and manipulating 3D data points.
+Tech Stack 🚀
+
+GitHub Stats 📈
+
+Thanks for visiting! I look forward to connecting and collaborating with fellow makers and developers around the world. 🌍
 --->
