@@ -6,7 +6,7 @@ I'm George, a Robotics and Mechatronics Engineering student working as a simulat
 
 - 🎓 Field of Study: Robotics and Mechatronics Engineering at Technical Hochschule Wurzburg Schweinfurt
 - 📍 Location: Schweinfurt, Germany
-- ⚙️ Skills: Python, C++, Web development, OpenGL, 3D Printing, Electronics, and more!
+- ⚙️ Skills: Python, C++, Web development, OpenGL, Vulkan, 3D Printing, Electronics, and more!
 - 🛠️ Current Projects:
   - Devin: A personal trading bot that leverages real-time data with its data processing and advanced decision-making ability to showcase potentially outstanding results.
   - Graphite: A Graphics rendering framework aimed at proving an abstracted API for a flexible and portable 3D or 2D graphics related application.
